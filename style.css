@@ -48,17 +48,16 @@ section {
   color: blue;
   text-decoration: none;
 }
+
 .news a:hover {
   color: black;
 }
+
 audio{
   margin:0 auto;
 }
+
 .znak{
-  margin:auto;
-  width100px
-  }
-.znak.style{
     display:flex;
     justify-content: center;
-    }
+}
