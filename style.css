@@ -54,6 +54,10 @@ section {
 audio{
   margin:0 auto;
 }
+.znak{
+  margin:auto;
+  width100px
+  }
 .znak.style{
     display:flex;
     justify-content: center;
