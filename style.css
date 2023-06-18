@@ -57,7 +57,7 @@ audio{
 .znak {
   margin:auto;
   }
-  znak.style{
+  .znak.style{
     display:flex;
     justify-content: center;
     }
