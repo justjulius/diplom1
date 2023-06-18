@@ -55,7 +55,9 @@ audio{
   margin:0 auto;
 }
 .znak {
-  margin:0px auto;
-  width:900px;
+  margin:auto;
   }
-  
+  znak.style{
+    display:flex;
+    justify-content: center;
+    }
